@@ -4,7 +4,7 @@
 **A complete mobile app designed, built and shipped solo.**
 Live on both stores · 13 languages · RTL support
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50">[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50">](https://play.google.com/store/apps/details?id=com.mxcrts.ChallengeTies)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50">][<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50">](https://play.google.com/store/apps/details?id=com.mxcrts.ChallengeTies)
 
 ## Screenshots
 (3-4 captures de tes fiches stores, glissées-déposées dans le README)
