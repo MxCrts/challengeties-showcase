@@ -1,9 +1,9 @@
 <p align="center">
-<img width="1242" height="2688" alt="Design sans titre (23)" src="https://github.com/user-attachments/assets/15b6653f-2748-4f2b-94fe-6a46a02f0319" />
-<img width="1242" height="2688" alt="Design sans titre (22)" src="https://github.com/user-attachments/assets/0a78ea47-0293-4e7d-9059-24f84684ac69" />
-<img width="1242" height="2688" alt="Design sans titre (21)" src="https://github.com/user-attachments/assets/e3e52bb2-85af-44ba-b939-39feb6a45d8d" />
-<img width="1242" height="2688" alt="Design sans titre (20)" src="https://github.com/user-attachments/assets/9dfe37c2-b902-4a6c-bcfa-fefd211622da" />
-<img width="1242" height="2688" alt="Design sans titre (19)" src="https://github.com/user-attachments/assets/e575c605-12e1-49be-89c2-dcfaf32090d9" />
+<img width="1242" height="2688" alt="Design sans titre (23)" src="https://github.com/user-attachments/assets/15b6653f-2748-4f2b-94fe-6a46a02f0319" width="180" />
+<img width="1242" height="2688" alt="Design sans titre (22)" src="https://github.com/user-attachments/assets/0a78ea47-0293-4e7d-9059-24f84684ac69" width="180" />
+<img width="1242" height="2688" alt="Design sans titre (21)" src="https://github.com/user-attachments/assets/e3e52bb2-85af-44ba-b939-39feb6a45d8d" width="180" />
+<img width="1242" height="2688" alt="Design sans titre (20)" src="https://github.com/user-attachments/assets/9dfe37c2-b902-4a6c-bcfa-fefd211622da" width="180" />
+<img width="1242" height="2688" alt="Design sans titre (19)" src="https://github.com/user-attachments/assets/e575c605-12e1-49be-89c2-dcfaf32090d9" width="180" />
 </p>
 # ChallengeTies — Habit tracking, together
 
