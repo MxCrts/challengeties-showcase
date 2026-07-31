@@ -13,9 +13,6 @@ Live on both stores · 13 languages · RTL support
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50">](https://apps.apple.com/app/id6751504640)[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50">](https://play.google.com/store/apps/details?id=com.mxcrts.ChallengeTies)
 
-## Screenshots
-(3-4 captures de tes fiches stores, glissées-déposées dans le README)
-
 ## What's inside
 - **Frontend:** React Native / Expo (SDK 53), TypeScript, EAS builds & OTA updates
 - **Backend:** Firebase — Auth (Apple & Google Sign-In), Firestore, Cloud Functions, Storage
